@@ -1,0 +1,262 @@
+{
+  "id": "sleep-descent-15",
+  "voiceId": "ru-svetlana",
+  "edgeVoice": "ru-RU-SvetlanaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 209,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Добро пожаловать на практику сна.",
+      "file": "c000.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 1,
+      "text": "Лечь. Сделайте темноту своим другом.",
+      "file": "c001.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 2,
+      "text": "Вы можете уснуть до конца. Это успех.",
+      "file": "c002.ogg",
+      "durationSec": 8.064
+    },
+    {
+      "index": 3,
+      "text": "[пауза: 22]",
+      "file": "c003.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 4,
+      "text": "Медленный вдох.",
+      "file": "c004.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 5,
+      "text": "Более длинный выдох.",
+      "file": "c005.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 6,
+      "text": "[пауза: 22]",
+      "file": "c006.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 7,
+      "text": "Освободите лоб.",
+      "file": "c007.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 8,
+      "text": "[пауза: 18]",
+      "file": "c008.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 9,
+      "text": "Отпустите глаза.",
+      "file": "c009.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 10,
+      "text": "[пауза: 18]",
+      "file": "c010.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 11,
+      "text": "Освободите челюсть и язык.",
+      "file": "c011.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 12,
+      "text": "[пауза: 22]",
+      "file": "c012.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 13,
+      "text": "Плечи тают.",
+      "file": "c013.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 14,
+      "text": "[пауза: 22]",
+      "file": "c014.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 15,
+      "text": "Руки тяжелые. Руки открыты.",
+      "file": "c015.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 16,
+      "text": "[пауза: 22]",
+      "file": "c016.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 17,
+      "text": "Грудь мягкая. Живот мягкий.",
+      "file": "c017.ogg",
+      "durationSec": 7.968
+    },
+    {
+      "index": 18,
+      "text": "[пауза: 22]",
+      "file": "c018.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 19,
+      "text": "Бедра тяжелые.",
+      "file": "c019.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 20,
+      "text": "[пауза: 22]",
+      "file": "c020.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 21,
+      "text": "Ноги тяжелые. Ноги тяжелые.",
+      "file": "c021.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 22,
+      "text": "[пауза:27]",
+      "file": "c022.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 23,
+      "text": "Все тело проваливается в кровать.",
+      "file": "c023.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 24,
+      "text": "[пауза:36]",
+      "file": "c024.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 25,
+      "text": "Мысли похожи на далекие пробки.",
+      "file": "c025.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 26,
+      "text": "Вы не следуете за ними.",
+      "file": "c026.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 27,
+      "text": "[пауза: 45]",
+      "file": "c027.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 28,
+      "text": "Дышите тише.",
+      "file": "c028.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 29,
+      "text": "[пауза: 45]",
+      "file": "c029.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 30,
+      "text": "Темнее. Мягче. Помедленнее.",
+      "file": "c030.ogg",
+      "durationSec": 9.648
+    },
+    {
+      "index": 31,
+      "text": "[пауза:67]",
+      "file": "c031.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 32,
+      "text": "Нечего заканчивать.",
+      "file": "c032.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 33,
+      "text": "[пауза:54]",
+      "file": "c033.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 34,
+      "text": "Безопасно отдыхать.",
+      "file": "c034.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 35,
+      "text": "[пауза:89]",
+      "file": "c035.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 36,
+      "text": "Безопасно спать.",
+      "file": "c036.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 37,
+      "text": "[пауза: 112]",
+      "file": "c037.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 38,
+      "text": "Если вы все еще бодрствуете, продолжайте отдыхать на выдохе.",
+      "file": "c038.ogg",
+      "durationSec": 8.04
+    },
+    {
+      "index": 39,
+      "text": "[пауза:89]",
+      "file": "c039.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 40,
+      "text": "Спокойной ночи.",
+      "file": "c040.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 41,
+      "text": "[пауза:67]",
+      "file": "c041.ogg",
+      "durationSec": 4.512
+    }
+  ]
+}

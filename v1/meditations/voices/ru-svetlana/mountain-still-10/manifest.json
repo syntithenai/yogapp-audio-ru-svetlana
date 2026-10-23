@@ -1,0 +1,226 @@
+{
+  "id": "mountain-still-10",
+  "voiceId": "ru-svetlana",
+  "edgeVoice": "ru-RU-SvetlanaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 193,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Добро пожаловать.",
+      "file": "c000.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 1,
+      "text": "Найдите время, чтобы приехать.",
+      "file": "c001.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 2,
+      "text": "Сядьте или лягте с поддержкой.",
+      "file": "c002.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 3,
+      "text": "Закройте глаза, если это безопасно.",
+      "file": "c003.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 4,
+      "text": "Почувствуйте контакт с землей.",
+      "file": "c004.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 5,
+      "text": "Медленный вдох.",
+      "file": "c005.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 6,
+      "text": "Более длинный выдох.",
+      "file": "c006.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 7,
+      "text": "[пауза:28]",
+      "file": "c007.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 8,
+      "text": "Снова.",
+      "file": "c008.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 9,
+      "text": "[пауза:28]",
+      "file": "c009.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 10,
+      "text": "Позвольте плечам опуститься.",
+      "file": "c010.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 11,
+      "text": "Пусть живот смягчится.",
+      "file": "c011.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 12,
+      "text": "[пауза:36]",
+      "file": "c012.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 13,
+      "text": "Представьте себя горой.",
+      "file": "c013.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 14,
+      "text": "База широкая. Пиковая тишина. Огромное терпение.",
+      "file": "c014.ogg",
+      "durationSec": 11.736
+    },
+    {
+      "index": 15,
+      "text": "[пауза:43]",
+      "file": "c015.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 16,
+      "text": "Погода движется по горам.",
+      "file": "c016.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 17,
+      "text": "Солнце. Ветер. Облако. Шторм.",
+      "file": "c017.ogg",
+      "durationSec": 11.568
+    },
+    {
+      "index": 18,
+      "text": "Гора осталась.",
+      "file": "c018.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 19,
+      "text": "[пауза:57]",
+      "file": "c019.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 20,
+      "text": "Мысли и настроения – это погода.",
+      "file": "c020.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 21,
+      "text": "Ты гора.",
+      "file": "c021.ogg",
+      "durationSec": 2.928
+    },
+    {
+      "index": 22,
+      "text": "[пауза:57]",
+      "file": "c022.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 23,
+      "text": "Почувствуйте, как основание вашего тела укоренилось.",
+      "file": "c023.ogg",
+      "durationSec": 7.2
+    },
+    {
+      "index": 24,
+      "text": "Почувствуйте высоту в позвоночнике без напряжения.",
+      "file": "c024.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 25,
+      "text": "[пауза:43]",
+      "file": "c025.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 26,
+      "text": "Дышите, как небо вокруг горы.",
+      "file": "c026.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 27,
+      "text": "[пауза:71]",
+      "file": "c027.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 28,
+      "text": "Устойчивый. Неторопливо. Достаточно.",
+      "file": "c028.ogg",
+      "durationSec": 10.104
+    },
+    {
+      "index": 29,
+      "text": "[пауза: 90]",
+      "file": "c029.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 30,
+      "text": "[пауза:43]",
+      "file": "c030.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 31,
+      "text": "Начните углублять дыхание.",
+      "file": "c031.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 32,
+      "text": "Почувствуйте комнату снова.",
+      "file": "c032.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 33,
+      "text": "Шевелите пальцами рук и ног.",
+      "file": "c033.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 34,
+      "text": "Когда будете готовы, откройте глаза.",
+      "file": "c034.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 35,
+      "text": "Медленно двигайтесь к тому, что будет дальше.",
+      "file": "c035.ogg",
+      "durationSec": 6.528
+    }
+  ]
+}

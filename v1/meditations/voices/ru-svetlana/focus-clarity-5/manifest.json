@@ -1,0 +1,214 @@
+{
+  "id": "focus-clarity-5",
+  "voiceId": "ru-svetlana",
+  "edgeVoice": "ru-RU-SvetlanaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 177,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Добро пожаловать.",
+      "file": "c000.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 1,
+      "text": "Найдите удобное сиденье или лягте, если вам так удобнее.",
+      "file": "c001.ogg",
+      "durationSec": 8.256
+    },
+    {
+      "index": 2,
+      "text": "Дайте рукам отдохнуть.",
+      "file": "c002.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 3,
+      "text": "Смягчите глаза или закройте их.",
+      "file": "c003.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 4,
+      "text": "Сделайте медленный вдох.",
+      "file": "c004.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 5,
+      "text": "И более длинный выдох.",
+      "file": "c005.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 6,
+      "text": "Выберите один якорь. Дыхание через ноздри или подъем живота.",
+      "file": "c006.ogg",
+      "durationSec": 10.704
+    },
+    {
+      "index": 7,
+      "text": "Оставьте внимание там.",
+      "file": "c007.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 8,
+      "text": "[пауза:23]",
+      "file": "c008.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 9,
+      "text": "Когда ум блуждает, обратите внимание, куда он направился.",
+      "file": "c009.ogg",
+      "durationSec": 7.872
+    },
+    {
+      "index": 10,
+      "text": "Затем вернитесь. Пожалуйста. Чисто.",
+      "file": "c010.ogg",
+      "durationSec": 10.056
+    },
+    {
+      "index": 11,
+      "text": "[пауза:29]",
+      "file": "c011.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 12,
+      "text": "Возвращение — это тренировка.",
+      "file": "c012.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 13,
+      "text": "Вдохните. Оставаться.",
+      "file": "c013.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 14,
+      "text": "Выдохните. Оставаться.",
+      "file": "c014.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 15,
+      "text": "[пауза:34]",
+      "file": "c015.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 16,
+      "text": "Если поможет, сосчитайте до пяти вдохов, затем начните снова.",
+      "file": "c016.ogg",
+      "durationSec": 8.832
+    },
+    {
+      "index": 17,
+      "text": "Один.",
+      "file": "c017.ogg",
+      "durationSec": 2.808
+    },
+    {
+      "index": 18,
+      "text": "[пауза: 17]",
+      "file": "c018.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 19,
+      "text": "Два.",
+      "file": "c019.ogg",
+      "durationSec": 2.64
+    },
+    {
+      "index": 20,
+      "text": "[пауза: 17]",
+      "file": "c020.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 21,
+      "text": "Три.",
+      "file": "c021.ogg",
+      "durationSec": 2.448
+    },
+    {
+      "index": 22,
+      "text": "[пауза: 17]",
+      "file": "c022.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 23,
+      "text": "Четыре.",
+      "file": "c023.ogg",
+      "durationSec": 2.952
+    },
+    {
+      "index": 24,
+      "text": "[пауза: 17]",
+      "file": "c024.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 25,
+      "text": "Пять.",
+      "file": "c025.ogg",
+      "durationSec": 2.616
+    },
+    {
+      "index": 26,
+      "text": "[пауза:23]",
+      "file": "c026.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 27,
+      "text": "Отпустите счет.",
+      "file": "c027.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 28,
+      "text": "Остановитесь на мгновение в ясном, открытом внимании.",
+      "file": "c028.ogg",
+      "durationSec": 7.536
+    },
+    {
+      "index": 29,
+      "text": "[пауза:34]",
+      "file": "c029.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 30,
+      "text": "Сделайте еще один легкий вдох.",
+      "file": "c030.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 31,
+      "text": "Пошевелите пальцами.",
+      "file": "c031.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 32,
+      "text": "Когда будете готовы, откройте глаза.",
+      "file": "c032.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 33,
+      "text": "Носите немного этого с собой.",
+      "file": "c033.ogg",
+      "durationSec": 5.16
+    }
+  ]
+}

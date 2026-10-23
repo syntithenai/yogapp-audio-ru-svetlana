@@ -1,0 +1,166 @@
+{
+  "id": "senses-grounding-5",
+  "voiceId": "ru-svetlana",
+  "edgeVoice": "ru-RU-SvetlanaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 158,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Добро пожаловать.",
+      "file": "c000.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 1,
+      "text": "Если вы чувствуете себя рассеянным или активным, эта практика может помочь.",
+      "file": "c001.ogg",
+      "durationSec": 9.264
+    },
+    {
+      "index": 2,
+      "text": "Пока держите глаза открытыми, если так кажется безопаснее.",
+      "file": "c002.ogg",
+      "durationSec": 7.776
+    },
+    {
+      "index": 3,
+      "text": "Поставьте обе ноги на пол.",
+      "file": "c003.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 4,
+      "text": "[пауза: 17]",
+      "file": "c004.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 5,
+      "text": "Назовите пять вещей, которые вы можете видеть.",
+      "file": "c005.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 6,
+      "text": "Тихо. Не торопись.",
+      "file": "c006.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 7,
+      "text": "[пауза: 45]",
+      "file": "c007.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 8,
+      "text": "Назовите четыре вещи, которые вы можете почувствовать или потрогать.",
+      "file": "c008.ogg",
+      "durationSec": 8.784
+    },
+    {
+      "index": 9,
+      "text": "Одежда. Стул. Воздух на коже. Ноги на полу.",
+      "file": "c009.ogg",
+      "durationSec": 12.984
+    },
+    {
+      "index": 10,
+      "text": "[пауза:39]",
+      "file": "c010.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 11,
+      "text": "Назовите три звука.",
+      "file": "c011.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 12,
+      "text": "Близко или далеко. Мягкий или прозрачный.",
+      "file": "c012.ogg",
+      "durationSec": 9.0
+    },
+    {
+      "index": 13,
+      "text": "[пауза:39]",
+      "file": "c013.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 14,
+      "text": "Назовите два аромата или просто обратите внимание на качество воздуха.",
+      "file": "c014.ogg",
+      "durationSec": 8.976
+    },
+    {
+      "index": 15,
+      "text": "[пауза:28]",
+      "file": "c015.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 16,
+      "text": "Назовите один вкус или ощущение во рту.",
+      "file": "c016.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 17,
+      "text": "[пауза:23]",
+      "file": "c017.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 18,
+      "text": "Вы здесь. В этом теле. В этой комнате.",
+      "file": "c018.ogg",
+      "durationSec": 10.272
+    },
+    {
+      "index": 19,
+      "text": "Вдох на четыре.",
+      "file": "c019.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 20,
+      "text": "Выход на шесть.",
+      "file": "c020.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 21,
+      "text": "[пауза:23]",
+      "file": "c021.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 22,
+      "text": "Сделайте еще один легкий вдох.",
+      "file": "c022.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 23,
+      "text": "Пошевелите пальцами.",
+      "file": "c023.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 24,
+      "text": "Когда будете готовы, откройте глаза.",
+      "file": "c024.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 25,
+      "text": "Носите немного этого с собой.",
+      "file": "c025.ogg",
+      "durationSec": 5.16
+    }
+  ]
+}

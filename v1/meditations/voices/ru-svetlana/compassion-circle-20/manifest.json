@@ -1,0 +1,394 @@
+{
+  "id": "compassion-circle-20",
+  "voiceId": "ru-svetlana",
+  "edgeVoice": "ru-RU-SvetlanaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 325,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Добро пожаловать.",
+      "file": "c000.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 1,
+      "text": "Найдите время, чтобы приехать.",
+      "file": "c001.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 2,
+      "text": "Сядьте или лягте с поддержкой.",
+      "file": "c002.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 3,
+      "text": "Закройте глаза, если это безопасно.",
+      "file": "c003.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 4,
+      "text": "Почувствуйте контакт с землей.",
+      "file": "c004.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 5,
+      "text": "Медленный вдох.",
+      "file": "c005.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 6,
+      "text": "Более длинный выдох.",
+      "file": "c006.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 7,
+      "text": "[пауза:27]",
+      "file": "c007.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 8,
+      "text": "Снова.",
+      "file": "c008.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 9,
+      "text": "[пауза:27]",
+      "file": "c009.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 10,
+      "text": "Позвольте плечам опуститься.",
+      "file": "c010.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 11,
+      "text": "Пусть живот смягчится.",
+      "file": "c011.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 12,
+      "text": "[пауза:34]",
+      "file": "c012.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 13,
+      "text": "Мы будем предлагать доброту в расширяющемся кругу.",
+      "file": "c013.ogg",
+      "durationSec": 6.936
+    },
+    {
+      "index": 14,
+      "text": "Фразы — это приглашения, а не команды.",
+      "file": "c014.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 15,
+      "text": "[пауза:34]",
+      "file": "c015.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 16,
+      "text": "К себе.",
+      "file": "c016.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 17,
+      "text": "Пусть я буду в безопасности.",
+      "file": "c017.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 18,
+      "text": "[пауза:27]",
+      "file": "c018.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 19,
+      "text": "Пусть мне будет хорошо.",
+      "file": "c019.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 20,
+      "text": "[пауза:27]",
+      "file": "c020.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 21,
+      "text": "Пусть мне жить легко.",
+      "file": "c021.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 22,
+      "text": "[пауза: 41]",
+      "file": "c022.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 23,
+      "text": "Опять же медленно.",
+      "file": "c023.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 24,
+      "text": "Пусть я буду в безопасности.",
+      "file": "c024.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 25,
+      "text": "Пусть мне будет хорошо.",
+      "file": "c025.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 26,
+      "text": "Пусть мне жить легко.",
+      "file": "c026.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 27,
+      "text": "[пауза:69]",
+      "file": "c027.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 28,
+      "text": "Вспомните друга или кого-то, о ком легко заботиться.",
+      "file": "c028.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 29,
+      "text": "Пусть ты будешь в безопасности.",
+      "file": "c029.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 30,
+      "text": "[пауза:27]",
+      "file": "c030.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 31,
+      "text": "Пусть тебе будет хорошо.",
+      "file": "c031.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 32,
+      "text": "[пауза:27]",
+      "file": "c032.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 33,
+      "text": "Пусть тебе живется легко.",
+      "file": "c033.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 34,
+      "text": "[пауза:69]",
+      "file": "c034.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 35,
+      "text": "Вспомните нейтрального человека. Тот, кого ты едва знаешь.",
+      "file": "c035.ogg",
+      "durationSec": 9.888
+    },
+    {
+      "index": 36,
+      "text": "Пусть ты будешь в безопасности.",
+      "file": "c036.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 37,
+      "text": "Пусть тебе будет хорошо.",
+      "file": "c037.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 38,
+      "text": "Пусть тебе живется легко.",
+      "file": "c038.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 39,
+      "text": "[пауза:69]",
+      "file": "c039.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 40,
+      "text": "Если это кажется возможным, включите кого-то сложного, но легко.",
+      "file": "c040.ogg",
+      "durationSec": 8.28
+    },
+    {
+      "index": 41,
+      "text": "Или вернитесь к себе, если сегодня это разумнее.",
+      "file": "c041.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 42,
+      "text": "Пусть ты будешь свободен от страданий.",
+      "file": "c042.ogg",
+      "durationSec": 5.448
+    },
+    {
+      "index": 43,
+      "text": "[пауза:55]",
+      "file": "c043.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 44,
+      "text": "Распространяется на всех существ, близких и далеких.",
+      "file": "c044.ogg",
+      "durationSec": 7.752
+    },
+    {
+      "index": 45,
+      "text": "Пусть все существа будут в безопасности.",
+      "file": "c045.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 46,
+      "text": "[пауза:34]",
+      "file": "c046.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 47,
+      "text": "Пусть все существа будут здоровы.",
+      "file": "c047.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 48,
+      "text": "[пауза:34]",
+      "file": "c048.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 49,
+      "text": "Пусть все существа живут легко.",
+      "file": "c049.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 50,
+      "text": "[пауза:82]",
+      "file": "c050.ogg",
+      "durationSec": 4.416
+    },
+    {
+      "index": 51,
+      "text": "Вернитесь к своему телу и дыханию.",
+      "file": "c051.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 52,
+      "text": "Отдыхайте в послесвечении фраз.",
+      "file": "c052.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 53,
+      "text": "[пауза: 150]",
+      "file": "c053.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 54,
+      "text": "Нечего заставлять. Мягкости достаточно.",
+      "file": "c054.ogg",
+      "durationSec": 8.472
+    },
+    {
+      "index": 55,
+      "text": "[пауза: 137]",
+      "file": "c055.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 56,
+      "text": "[пауза: 41]",
+      "file": "c056.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 57,
+      "text": "Начните углублять дыхание.",
+      "file": "c057.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 58,
+      "text": "Отдых здесь.",
+      "file": "c058.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 59,
+      "text": "[пауза:26]",
+      "file": "c059.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 60,
+      "text": "Почувствуйте комнату снова.",
+      "file": "c060.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 61,
+      "text": "Шевелите пальцами рук и ног.",
+      "file": "c061.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 62,
+      "text": "Когда будете готовы, откройте глаза.",
+      "file": "c062.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 63,
+      "text": "Медленно двигайтесь к тому, что будет дальше.",
+      "file": "c063.ogg",
+      "durationSec": 6.528
+    }
+  ]
+}

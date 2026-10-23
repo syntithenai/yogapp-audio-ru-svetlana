@@ -1,0 +1,238 @@
+{
+  "id": "evening-unload-10",
+  "voiceId": "ru-svetlana",
+  "edgeVoice": "ru-RU-SvetlanaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 203,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Добро пожаловать.",
+      "file": "c000.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 1,
+      "text": "Найдите время, чтобы приехать.",
+      "file": "c001.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 2,
+      "text": "Сядьте или лягте с поддержкой.",
+      "file": "c002.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 3,
+      "text": "Закройте глаза, если это безопасно.",
+      "file": "c003.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 4,
+      "text": "Почувствуйте контакт с землей.",
+      "file": "c004.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 5,
+      "text": "Медленный вдох.",
+      "file": "c005.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 6,
+      "text": "Более длинный выдох.",
+      "file": "c006.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 7,
+      "text": "[пауза:26]",
+      "file": "c007.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 8,
+      "text": "Снова.",
+      "file": "c008.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 9,
+      "text": "[пауза:26]",
+      "file": "c009.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 10,
+      "text": "Позвольте плечам опуститься.",
+      "file": "c010.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 11,
+      "text": "Пусть живот смягчится.",
+      "file": "c011.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 12,
+      "text": "[пауза:33]",
+      "file": "c012.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 13,
+      "text": "Пусть день на этом закончится.",
+      "file": "c013.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 14,
+      "text": "Что случилось, то случилось.",
+      "file": "c014.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 15,
+      "text": "То, что осталось, может подождать до утра.",
+      "file": "c015.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 16,
+      "text": "[пауза:33]",
+      "file": "c016.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 17,
+      "text": "На выдохе представьте, что кладете задачи на полку.",
+      "file": "c017.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 18,
+      "text": "Один за другим. Никакой драмы. Просто присядь.",
+      "file": "c018.ogg",
+      "durationSec": 10.752
+    },
+    {
+      "index": 19,
+      "text": "[пауза:53]",
+      "file": "c019.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 20,
+      "text": "Вдох четыре. Выдохните шесть.",
+      "file": "c020.ogg",
+      "durationSec": 7.536
+    },
+    {
+      "index": 21,
+      "text": "[пауза:33]",
+      "file": "c021.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 22,
+      "text": "Смягчите лицо.",
+      "file": "c022.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 23,
+      "text": "Опустите плечи.",
+      "file": "c023.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 24,
+      "text": "Тяжелые руки. Тяжелые ноги.",
+      "file": "c024.ogg",
+      "durationSec": 7.368
+    },
+    {
+      "index": 25,
+      "text": "[пауза: 40]",
+      "file": "c025.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 26,
+      "text": "Если разум снова перечисляет, кивните ему и вернитесь к полке.",
+      "file": "c026.ogg",
+      "durationSec": 8.64
+    },
+    {
+      "index": 27,
+      "text": "[пауза:53]",
+      "file": "c027.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 28,
+      "text": "Почувствуйте, как матрас или стул удерживают вас.",
+      "file": "c028.ogg",
+      "durationSec": 7.152
+    },
+    {
+      "index": 29,
+      "text": "[пауза:66]",
+      "file": "c029.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 30,
+      "text": "Дышите тише. Тело тяжелее.",
+      "file": "c030.ogg",
+      "durationSec": 7.632
+    },
+    {
+      "index": 31,
+      "text": "[пауза: 90]",
+      "file": "c031.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 32,
+      "text": "[пауза: 40]",
+      "file": "c032.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 33,
+      "text": "Начните углублять дыхание.",
+      "file": "c033.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 34,
+      "text": "Почувствуйте комнату снова.",
+      "file": "c034.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 35,
+      "text": "Шевелите пальцами рук и ног.",
+      "file": "c035.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 36,
+      "text": "Когда будете готовы, откройте глаза.",
+      "file": "c036.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 37,
+      "text": "Медленно двигайтесь к тому, что будет дальше.",
+      "file": "c037.ogg",
+      "durationSec": 6.528
+    }
+  ]
+}

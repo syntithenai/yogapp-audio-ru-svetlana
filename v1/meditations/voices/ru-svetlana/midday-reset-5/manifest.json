@@ -1,0 +1,190 @@
+{
+  "id": "midday-reset-5",
+  "voiceId": "ru-svetlana",
+  "edgeVoice": "ru-RU-SvetlanaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 154,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Добро пожаловать.",
+      "file": "c000.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 1,
+      "text": "Найдите удобное сиденье или лягте, если вам так удобнее.",
+      "file": "c001.ogg",
+      "durationSec": 8.256
+    },
+    {
+      "index": 2,
+      "text": "Дайте рукам отдохнуть.",
+      "file": "c002.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 3,
+      "text": "Смягчите глаза или закройте их.",
+      "file": "c003.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 4,
+      "text": "Сделайте медленный вдох.",
+      "file": "c004.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 5,
+      "text": "И более длинный выдох.",
+      "file": "c005.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 6,
+      "text": "Пусть утро закончится здесь, даже если день продолжится.",
+      "file": "c006.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 7,
+      "text": "Опустите плечи.",
+      "file": "c007.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 8,
+      "text": "Разжать челюсть.",
+      "file": "c008.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 9,
+      "text": "[пауза: 30]",
+      "file": "c009.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 10,
+      "text": "Вдохните через нос.",
+      "file": "c010.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 11,
+      "text": "Выдохните через рот, как будто запотеваете окно.",
+      "file": "c011.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 12,
+      "text": "Снова.",
+      "file": "c012.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 13,
+      "text": "[пауза: 30]",
+      "file": "c013.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 14,
+      "text": "Представьте, что вы кладете все, что несете.",
+      "file": "c014.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 15,
+      "text": "Оно может подождать на столе рядом с вами.",
+      "file": "c015.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 16,
+      "text": "[пауза:37]",
+      "file": "c016.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 17,
+      "text": "Почувствуйте высокий позвоночник.",
+      "file": "c017.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 18,
+      "text": "Почувствуйте, как живот становится мягким.",
+      "file": "c018.ogg",
+      "durationSec": 6.144
+    },
+    {
+      "index": 19,
+      "text": "[пауза: 30]",
+      "file": "c019.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 20,
+      "text": "Спросите спокойно: что важно в ближайший час?",
+      "file": "c020.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 21,
+      "text": "Достаточно одного четкого следующего шага.",
+      "file": "c021.ogg",
+      "durationSec": 6.72
+    },
+    {
+      "index": 22,
+      "text": "[пауза:44]",
+      "file": "c022.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 23,
+      "text": "Вдохните эту простоту.",
+      "file": "c023.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 24,
+      "text": "Выдохните усилие.",
+      "file": "c024.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 25,
+      "text": "[пауза:37]",
+      "file": "c025.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 26,
+      "text": "Сделайте еще один легкий вдох.",
+      "file": "c026.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 27,
+      "text": "Пошевелите пальцами.",
+      "file": "c027.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 28,
+      "text": "Когда будете готовы, откройте глаза.",
+      "file": "c028.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 29,
+      "text": "Носите немного этого с собой.",
+      "file": "c029.ogg",
+      "durationSec": 5.16
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "id": "open-awareness-5",
+  "voiceId": "ru-svetlana",
+  "edgeVoice": "ru-RU-SvetlanaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 152,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Добро пожаловать.",
+      "file": "c000.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 1,
+      "text": "Найдите удобное сиденье или лягте, если вам так удобнее.",
+      "file": "c001.ogg",
+      "durationSec": 8.256
+    },
+    {
+      "index": 2,
+      "text": "Дайте рукам отдохнуть.",
+      "file": "c002.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 3,
+      "text": "Смягчите глаза или закройте их.",
+      "file": "c003.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 4,
+      "text": "Сделайте медленный вдох.",
+      "file": "c004.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 5,
+      "text": "И более длинный выдох.",
+      "file": "c005.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 6,
+      "text": "Начните с дыхания в течение нескольких циклов.",
+      "file": "c006.ogg",
+      "durationSec": 6.576
+    },
+    {
+      "index": 7,
+      "text": "[пауза:28]",
+      "file": "c007.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 8,
+      "text": "Теперь расширьте. Включить звуки.",
+      "file": "c008.ogg",
+      "durationSec": 7.608
+    },
+    {
+      "index": 9,
+      "text": "Около. Далеко. Изменение. Устойчивый.",
+      "file": "c009.ogg",
+      "durationSec": 12.552
+    },
+    {
+      "index": 10,
+      "text": "[пауза:28]",
+      "file": "c010.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 11,
+      "text": "Включите ощущения в теле.",
+      "file": "c011.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 12,
+      "text": "Контактные точки. Температура. Мягкий пульс.",
+      "file": "c012.ogg",
+      "durationSec": 10.8
+    },
+    {
+      "index": 13,
+      "text": "[пауза:28]",
+      "file": "c013.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 14,
+      "text": "Учитывайте площадь комнаты.",
+      "file": "c014.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 15,
+      "text": "Осознание как открытое небо.",
+      "file": "c015.ogg",
+      "durationSec": 5.304
+    },
+    {
+      "index": 16,
+      "text": "[пауза:34]",
+      "file": "c016.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 17,
+      "text": "Мысли могут проявляться как погода.",
+      "file": "c017.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 18,
+      "text": "Не нужно их преследовать или давить.",
+      "file": "c018.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 19,
+      "text": "Небо остается.",
+      "file": "c019.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 20,
+      "text": "[пауза: 45]",
+      "file": "c020.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 21,
+      "text": "Отдыхай в этом открытом поле.",
+      "file": "c021.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 22,
+      "text": "[пауза: 45]",
+      "file": "c022.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 23,
+      "text": "Сделайте еще один легкий вдох.",
+      "file": "c023.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 24,
+      "text": "Пошевелите пальцами.",
+      "file": "c024.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 25,
+      "text": "Когда будете готовы, откройте глаза.",
+      "file": "c025.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 26,
+      "text": "Носите немного этого с собой.",
+      "file": "c026.ogg",
+      "durationSec": 5.16
+    }
+  ]
+}

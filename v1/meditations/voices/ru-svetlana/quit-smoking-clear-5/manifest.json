@@ -1,0 +1,286 @@
+{
+  "id": "quit-smoking-clear-5",
+  "voiceId": "ru-svetlana",
+  "edgeVoice": "ru-RU-SvetlanaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 267,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Добро пожаловать.",
+      "file": "c000.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 1,
+      "text": "Это практика чистого дыхания.",
+      "file": "c001.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 2,
+      "text": "Найдите удобное сидячее положение, или лягте, если это кажется лучше.",
+      "file": "c002.ogg",
+      "durationSec": 9.552
+    },
+    {
+      "index": 3,
+      "text": "Позвольте рукам отдохнуть.",
+      "file": "c003.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 4,
+      "text": "Ослабьте глаза, или закройте их.",
+      "file": "c004.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 5,
+      "text": "Вдыхайте медленно через нос.",
+      "file": "c005.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 6,
+      "text": "И выдыхайте дольше.",
+      "file": "c006.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 7,
+      "text": "[пауза:10]",
+      "file": "c007.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 8,
+      "text": "Обратите внимание на воздух, как он есть.",
+      "file": "c008.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 9,
+      "text": "Холодный при вдохе.",
+      "file": "c009.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 10,
+      "text": "Теплый при выдохе.",
+      "file": "c010.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 11,
+      "text": "Нет дыма. Нет яда. Только дыхание.",
+      "file": "c011.ogg",
+      "durationSec": 10.224
+    },
+    {
+      "index": 12,
+      "text": "[пауза:12]",
+      "file": "c012.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 13,
+      "text": "Чувствуйте, как грудная клетка расширяется без усилий.",
+      "file": "c013.ogg",
+      "durationSec": 7.464
+    },
+    {
+      "index": 14,
+      "text": "Чувствуйте, как ребра немного расширяются.",
+      "file": "c014.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 15,
+      "text": "[пауза:12]",
+      "file": "c015.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 16,
+      "text": "Положите руку на сердце или оставьте обе руки на коленях.",
+      "file": "c016.ogg",
+      "durationSec": 7.416
+    },
+    {
+      "index": 17,
+      "text": "Чувствуйте тело, которое заживает.",
+      "file": "c017.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 18,
+      "text": "Лёгкие очищаются. Кровь свободнее. Восстановление ощущения запаха — день за днём.",
+      "file": "c018.ogg",
+      "durationSec": 15.6
+    },
+    {
+      "index": 19,
+      "text": "[пауза:16]",
+      "file": "c019.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 20,
+      "text": "Тихо попробуйте эти фразы или просто слушайте.",
+      "file": "c020.ogg",
+      "durationSec": 6.552
+    },
+    {
+      "index": 21,
+      "text": "Мой дыхание принадлежит мне.",
+      "file": "c021.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 22,
+      "text": "[пауза:12]",
+      "file": "c022.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 23,
+      "text": "Я выбираю чистый воздух.",
+      "file": "c023.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 24,
+      "text": "[пауза:12]",
+      "file": "c024.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 25,
+      "text": "Я закончил с этим ядом.",
+      "file": "c025.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 26,
+      "text": "[пауза:14]",
+      "file": "c026.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 27,
+      "text": "Представьте себе следующий обычный момент без сигареты.",
+      "file": "c027.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 28,
+      "text": "Кофе. Прогулка. Пауза после еды.",
+      "file": "c028.ogg",
+      "durationSec": 9.768
+    },
+    {
+      "index": 29,
+      "text": "Посмотрите на себя, уже свободного и полного в этот момент.",
+      "file": "c029.ogg",
+      "durationSec": 8.088
+    },
+    {
+      "index": 30,
+      "text": "[пауза:22]",
+      "file": "c030.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 31,
+      "text": "Если появится воспоминание о курении, пусть это будет изображение, а не план.",
+      "file": "c031.ogg",
+      "durationSec": 10.128
+    },
+    {
+      "index": 32,
+      "text": "Вернитесь к этому вдоху.",
+      "file": "c032.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 33,
+      "text": "Вернитесь к этому выдоху.",
+      "file": "c033.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 34,
+      "text": "[пауза:14]",
+      "file": "c034.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 35,
+      "text": "Дышите свободой.",
+      "file": "c035.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 36,
+      "text": "Выдыхайте историю старого привычного поведения.",
+      "file": "c036.ogg",
+      "durationSec": 6.936
+    },
+    {
+      "index": 37,
+      "text": "[пауза:14]",
+      "file": "c037.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 38,
+      "text": "Вы приняли важное решение.",
+      "file": "c038.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 39,
+      "text": "Ваше тело постепенно приходит к этой истине.",
+      "file": "c039.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 40,
+      "text": "[пауза:12]",
+      "file": "c040.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 41,
+      "text": "Вдохни еще раз чисто.",
+      "file": "c041.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 42,
+      "text": "И выдохни медленно и легко.",
+      "file": "c042.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 43,
+      "text": "Потяни пальцы.",
+      "file": "c043.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 44,
+      "text": "Когда будешь готов, открой глаза.",
+      "file": "c044.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 45,
+      "text": "Неси с собой это чистое дыхание.",
+      "file": "c045.ogg",
+      "durationSec": 6.0
+    }
+  ]
+}

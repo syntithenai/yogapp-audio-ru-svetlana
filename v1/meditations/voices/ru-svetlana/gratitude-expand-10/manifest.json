@@ -1,0 +1,238 @@
+{
+  "id": "gratitude-expand-10",
+  "voiceId": "ru-svetlana",
+  "edgeVoice": "ru-RU-SvetlanaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 208,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Добро пожаловать.",
+      "file": "c000.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 1,
+      "text": "Найдите время, чтобы приехать.",
+      "file": "c001.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 2,
+      "text": "Сядьте или лягте с поддержкой.",
+      "file": "c002.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 3,
+      "text": "Закройте глаза, если это безопасно.",
+      "file": "c003.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 4,
+      "text": "Почувствуйте контакт с землей.",
+      "file": "c004.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 5,
+      "text": "Медленный вдох.",
+      "file": "c005.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 6,
+      "text": "Более длинный выдох.",
+      "file": "c006.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 7,
+      "text": "[пауза:27]",
+      "file": "c007.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 8,
+      "text": "Снова.",
+      "file": "c008.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 9,
+      "text": "[пауза:27]",
+      "file": "c009.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 10,
+      "text": "Позвольте плечам опуститься.",
+      "file": "c010.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 11,
+      "text": "Пусть живот смягчится.",
+      "file": "c011.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 12,
+      "text": "[пауза:34]",
+      "file": "c012.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 13,
+      "text": "Начните с одного небольшого конкретного товара.",
+      "file": "c013.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 14,
+      "text": "Держи. Спасибо.",
+      "file": "c014.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 15,
+      "text": "[пауза: 40]",
+      "file": "c015.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 16,
+      "text": "Секунда. Человек, место или комфорт.",
+      "file": "c016.ogg",
+      "durationSec": 9.048
+    },
+    {
+      "index": 17,
+      "text": "Спасибо.",
+      "file": "c017.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 18,
+      "text": "[пауза: 40]",
+      "file": "c018.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 19,
+      "text": "Третий. Что-то о вашем теле, что работает сегодня.",
+      "file": "c019.ogg",
+      "durationSec": 9.504
+    },
+    {
+      "index": 20,
+      "text": "Спасибо.",
+      "file": "c020.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 21,
+      "text": "[пауза: 40]",
+      "file": "c021.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 22,
+      "text": "Распространитесь на людей, которые были добры, хотя бы ненадолго.",
+      "file": "c022.ogg",
+      "durationSec": 8.448
+    },
+    {
+      "index": 23,
+      "text": "[пауза:54]",
+      "file": "c023.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 24,
+      "text": "Расширьтесь до того места, где вы находитесь. Укрытие. Воздух. Земля.",
+      "file": "c024.ogg",
+      "durationSec": 15.264
+    },
+    {
+      "index": 25,
+      "text": "[пауза:54]",
+      "file": "c025.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 26,
+      "text": "Если благодарность кажется вам трудной, поблагодарите за то, что вы пришли.",
+      "file": "c026.ogg",
+      "durationSec": 8.976
+    },
+    {
+      "index": 27,
+      "text": "Это имеет значение.",
+      "file": "c027.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 28,
+      "text": "[пауза: 40]",
+      "file": "c028.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 29,
+      "text": "Покойтесь с любым возникшим теплом.",
+      "file": "c029.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 30,
+      "text": "Или покойтесь в самом намерении.",
+      "file": "c030.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 31,
+      "text": "[пауза: 90]",
+      "file": "c031.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 32,
+      "text": "[пауза: 40]",
+      "file": "c032.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 33,
+      "text": "Начните углублять дыхание.",
+      "file": "c033.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 34,
+      "text": "Почувствуйте комнату снова.",
+      "file": "c034.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 35,
+      "text": "Шевелите пальцами рук и ног.",
+      "file": "c035.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 36,
+      "text": "Когда будете готовы, откройте глаза.",
+      "file": "c036.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 37,
+      "text": "Медленно двигайтесь к тому, что будет дальше.",
+      "file": "c037.ogg",
+      "durationSec": 6.528
+    }
+  ]
+}

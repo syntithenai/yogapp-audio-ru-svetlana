@@ -1,0 +1,286 @@
+{
+  "id": "quit-smoking-urge-5",
+  "voiceId": "ru-svetlana",
+  "edgeVoice": "ru-RU-SvetlanaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 256,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Добро пожаловать.",
+      "file": "c000.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 1,
+      "text": "Если появилась тяга, вы в нужном месте.",
+      "file": "c001.ogg",
+      "durationSec": 6.072
+    },
+    {
+      "index": 2,
+      "text": "Вам не нужно с ней бороться или подпитывать.",
+      "file": "c002.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 3,
+      "text": "Найдите устойчивое сидение или встаньте, поставив обе ноги на землю.",
+      "file": "c003.ogg",
+      "durationSec": 9.192
+    },
+    {
+      "index": 4,
+      "text": "Смягчите взгляд, или сохраняйте мягкий фокус.",
+      "file": "c004.ogg",
+      "durationSec": 7.248
+    },
+    {
+      "index": 5,
+      "text": "Сделайте медленный вдох.",
+      "file": "c005.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 6,
+      "text": "И более долгий выдох.",
+      "file": "c006.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 7,
+      "text": "[пауза:12]",
+      "file": "c007.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 8,
+      "text": "Просто назовите то, что происходит.",
+      "file": "c008.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 9,
+      "text": "Появилась тяга.",
+      "file": "c009.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 10,
+      "text": "Это волна в теле и уме.",
+      "file": "c010.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 11,
+      "text": "Это не приказ.",
+      "file": "c011.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 12,
+      "text": "[пауза:14]",
+      "file": "c012.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 13,
+      "text": "Заметьте, где вы это чувствуете.",
+      "file": "c013.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 14,
+      "text": "Грудь. Гортань. Руки. Нервозность.",
+      "file": "c014.ogg",
+      "durationSec": 11.832
+    },
+    {
+      "index": 15,
+      "text": "Нет необходимости делать это больше. Просто найдите его.",
+      "file": "c015.ogg",
+      "durationSec": 9.432
+    },
+    {
+      "index": 16,
+      "text": "[пауза:16]",
+      "file": "c016.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 17,
+      "text": "Дышите в эту область.",
+      "file": "c017.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 18,
+      "text": "Вдохните мягкий пространство.",
+      "file": "c018.ogg",
+      "durationSec": 5.232
+    },
+    {
+      "index": 19,
+      "text": "Выдохните без действия.",
+      "file": "c019.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 20,
+      "text": "[пауза:16]",
+      "file": "c020.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 21,
+      "text": "Желания поднимаются, достигают пика и уходят.",
+      "file": "c021.ogg",
+      "durationSec": 7.56
+    },
+    {
+      "index": 22,
+      "text": "Вы — берег. Волна проходит через вас.",
+      "file": "c022.ogg",
+      "durationSec": 8.688
+    },
+    {
+      "index": 23,
+      "text": "[пауза:18]",
+      "file": "c023.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 24,
+      "text": "Если разум предлагает историю о необходимости сигареты, поблагодарите его и вернитесь.",
+      "file": "c024.ogg",
+      "durationSec": 10.68
+    },
+    {
+      "index": 25,
+      "text": "Вернитесь к дыханию.",
+      "file": "c025.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 26,
+      "text": "Вернитесь к ногам на полу.",
+      "file": "c026.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 27,
+      "text": "[пауза:16]",
+      "file": "c027.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 28,
+      "text": "Тихо, если это поможет.",
+      "file": "c028.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 29,
+      "text": "Это временно.",
+      "file": "c029.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 30,
+      "text": "Я могу пережить это без сигареты.",
+      "file": "c030.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 31,
+      "text": "[пауза:18]",
+      "file": "c031.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 32,
+      "text": "Еще раз. Мягкий вдох.",
+      "file": "c032.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 33,
+      "text": "Длинный выдох.",
+      "file": "c033.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 34,
+      "text": "[пауза:16]",
+      "file": "c034.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 35,
+      "text": "Обратите внимание на любое облегчение, даже немного.",
+      "file": "c035.ogg",
+      "durationSec": 7.344
+    },
+    {
+      "index": 36,
+      "text": "Или заметьте, что вы остались с собой.",
+      "file": "c036.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 37,
+      "text": "Оба считаются.",
+      "file": "c037.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 38,
+      "text": "[пауза:16]",
+      "file": "c038.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 39,
+      "text": "Вы — некурящий, встречающий старый эхо.",
+      "file": "c039.ogg",
+      "durationSec": 7.152
+    },
+    {
+      "index": 40,
+      "text": "Тяга может посетить. Она не может владеть вами.",
+      "file": "c040.ogg",
+      "durationSec": 8.88
+    },
+    {
+      "index": 41,
+      "text": "[пауза:14]",
+      "file": "c041.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 42,
+      "text": "Сделайте еще один легкий вдох.",
+      "file": "c042.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 43,
+      "text": "Потрясите пальцами.",
+      "file": "c043.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 44,
+      "text": "Когда будете готовы, откройте глаза.",
+      "file": "c044.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 45,
+      "text": "Продолжайте день свободно.",
+      "file": "c045.ogg",
+      "durationSec": 4.656
+    }
+  ]
+}

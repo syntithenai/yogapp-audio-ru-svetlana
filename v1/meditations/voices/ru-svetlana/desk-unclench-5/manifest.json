@@ -1,0 +1,166 @@
+{
+  "id": "desk-unclench-5",
+  "voiceId": "ru-svetlana",
+  "edgeVoice": "ru-RU-SvetlanaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 140,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Добро пожаловать.",
+      "file": "c000.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 1,
+      "text": "Оставайтесь сидеть. Это для середины работы.",
+      "file": "c001.ogg",
+      "durationSec": 8.496
+    },
+    {
+      "index": 2,
+      "text": "На мгновение оторвите взгляд от экрана.",
+      "file": "c002.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 3,
+      "text": "Посмотрите подальше, если можете.",
+      "file": "c003.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 4,
+      "text": "[пауза:28]",
+      "file": "c004.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 5,
+      "text": "Поверните плечи вверх, назад и вниз.",
+      "file": "c005.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 6,
+      "text": "Еще дважды.",
+      "file": "c006.ogg",
+      "durationSec": 3.648
+    },
+    {
+      "index": 7,
+      "text": "[пауза:38]",
+      "file": "c007.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 8,
+      "text": "Откройте и закройте руки.",
+      "file": "c008.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 9,
+      "text": "Слегка встряхните их.",
+      "file": "c009.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 10,
+      "text": "[пауза:28]",
+      "file": "c010.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 11,
+      "text": "Смягчите бровь.",
+      "file": "c011.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 12,
+      "text": "Разжать челюсть. Дайте языку отдохнуть.",
+      "file": "c012.ogg",
+      "durationSec": 8.688
+    },
+    {
+      "index": 13,
+      "text": "[пауза:38]",
+      "file": "c013.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 14,
+      "text": "Вдохните в стороны ребер.",
+      "file": "c014.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 15,
+      "text": "Выдохните и позвольте груди успокоиться.",
+      "file": "c015.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 16,
+      "text": "[пауза:38]",
+      "file": "c016.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 17,
+      "text": "Медленно моргните три раза.",
+      "file": "c017.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 18,
+      "text": "[пауза:28]",
+      "file": "c018.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 19,
+      "text": "Еще один полный вдох.",
+      "file": "c019.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 20,
+      "text": "Возвращайтесь, когда будете готовы, немного менее подготовленными.",
+      "file": "c020.ogg",
+      "durationSec": 9.12
+    },
+    {
+      "index": 21,
+      "text": "[пауза:28]",
+      "file": "c021.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 22,
+      "text": "Сделайте еще один легкий вдох.",
+      "file": "c022.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 23,
+      "text": "Пошевелите пальцами.",
+      "file": "c023.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 24,
+      "text": "Когда будете готовы, откройте глаза.",
+      "file": "c024.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 25,
+      "text": "Перенесите легкость обратно к следующей задаче.",
+      "file": "c025.ogg",
+      "durationSec": 6.648
+    }
+  ]
+}

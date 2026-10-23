@@ -1,0 +1,178 @@
+{
+  "id": "self-compassion-5",
+  "voiceId": "ru-svetlana",
+  "edgeVoice": "ru-RU-SvetlanaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 155,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Добро пожаловать.",
+      "file": "c000.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 1,
+      "text": "Найдите удобное сиденье или лягте, если вам так удобнее.",
+      "file": "c001.ogg",
+      "durationSec": 8.256
+    },
+    {
+      "index": 2,
+      "text": "Дайте рукам отдохнуть.",
+      "file": "c002.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 3,
+      "text": "Смягчите глаза или закройте их.",
+      "file": "c003.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 4,
+      "text": "Сделайте медленный вдох.",
+      "file": "c004.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 5,
+      "text": "И более длинный выдох.",
+      "file": "c005.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 6,
+      "text": "Положите руку на сердце или положите обе руки на колени.",
+      "file": "c006.ogg",
+      "durationSec": 7.512
+    },
+    {
+      "index": 7,
+      "text": "Замечайте, как вы себя чувствуете, не исправляя этого.",
+      "file": "c007.ogg",
+      "durationSec": 7.968
+    },
+    {
+      "index": 8,
+      "text": "[пауза:31]",
+      "file": "c008.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 9,
+      "text": "Если есть борьба, признайте это.",
+      "file": "c009.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 10,
+      "text": "Это трудный момент.",
+      "file": "c010.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 11,
+      "text": "Трудности – это часть человеческого бытия.",
+      "file": "c011.ogg",
+      "durationSec": 6.312
+    },
+    {
+      "index": 12,
+      "text": "[пауза:39]",
+      "file": "c012.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 13,
+      "text": "Предлагайте себе доброту так, как вы бы предложили ее другу.",
+      "file": "c013.ogg",
+      "durationSec": 8.088
+    },
+    {
+      "index": 14,
+      "text": "Могу ли я быть добрым к себе.",
+      "file": "c014.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 15,
+      "text": "Могу ли я дать себе сострадание, в котором я нуждаюсь.",
+      "file": "c015.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 16,
+      "text": "[пауза:39]",
+      "file": "c016.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 17,
+      "text": "Опять же медленно.",
+      "file": "c017.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 18,
+      "text": "Могу ли я быть добрым к себе.",
+      "file": "c018.ogg",
+      "durationSec": 4.8
+    },
+    {
+      "index": 19,
+      "text": "Могу ли я дать себе сострадание, в котором я нуждаюсь.",
+      "file": "c019.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 20,
+      "text": "[пауза: 45]",
+      "file": "c020.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 21,
+      "text": "Дышите в руку на сердце, если оно там есть.",
+      "file": "c021.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 22,
+      "text": "[пауза:39]",
+      "file": "c022.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 23,
+      "text": "Эту мягкость вам не нужно заслужить.",
+      "file": "c023.ogg",
+      "durationSec": 5.376
+    },
+    {
+      "index": 24,
+      "text": "Сделайте еще один легкий вдох.",
+      "file": "c024.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 25,
+      "text": "Пошевелите пальцами.",
+      "file": "c025.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 26,
+      "text": "Когда будете готовы, откройте глаза.",
+      "file": "c026.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 27,
+      "text": "Носите немного этого с собой.",
+      "file": "c027.ogg",
+      "durationSec": 5.16
+    }
+  ]
+}

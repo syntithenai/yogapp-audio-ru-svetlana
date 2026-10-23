@@ -1,0 +1,190 @@
+{
+  "id": "confidence-5",
+  "voiceId": "ru-svetlana",
+  "edgeVoice": "ru-RU-SvetlanaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 167,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Добро пожаловать.",
+      "file": "c000.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 1,
+      "text": "Найдите удобное сиденье или лягте, если вам так удобнее.",
+      "file": "c001.ogg",
+      "durationSec": 8.256
+    },
+    {
+      "index": 2,
+      "text": "Дайте рукам отдохнуть.",
+      "file": "c002.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 3,
+      "text": "Смягчите глаза или закройте их.",
+      "file": "c003.ogg",
+      "durationSec": 5.664
+    },
+    {
+      "index": 4,
+      "text": "Сделайте медленный вдох.",
+      "file": "c004.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 5,
+      "text": "И более длинный выдох.",
+      "file": "c005.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 6,
+      "text": "Почувствуйте седалищные кости или ступни.",
+      "file": "c006.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 7,
+      "text": "Устойчивая база под вами.",
+      "file": "c007.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 8,
+      "text": "[пауза: 22]",
+      "file": "c008.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 9,
+      "text": "Удлинить позвоночник, не затвердевая.",
+      "file": "c009.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 10,
+      "text": "Мягкое лицо. Мягкий живот. Сильный центр.",
+      "file": "c010.ogg",
+      "durationSec": 10.776
+    },
+    {
+      "index": 11,
+      "text": "[пауза: 22]",
+      "file": "c011.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 12,
+      "text": "Молча произнесите эти фразы или просто послушайте.",
+      "file": "c012.ogg",
+      "durationSec": 7.008
+    },
+    {
+      "index": 13,
+      "text": "Я могу встретить то, что мне предстоит.",
+      "file": "c013.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 14,
+      "text": "[пауза: 22]",
+      "file": "c014.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 15,
+      "text": "Мне не нужно торопить свое становление.",
+      "file": "c015.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 16,
+      "text": "[пауза: 22]",
+      "file": "c016.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 17,
+      "text": "Я верю в свой следующий честный шаг.",
+      "file": "c017.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 18,
+      "text": "[пауза:28]",
+      "file": "c018.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 19,
+      "text": "Дышите уверенностью как теплом в груди, а не как броней.",
+      "file": "c019.ogg",
+      "durationSec": 7.872
+    },
+    {
+      "index": 20,
+      "text": "[пауза:28]",
+      "file": "c020.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 21,
+      "text": "Представьте, как вы стойко справляетесь с одной обычной задачей.",
+      "file": "c021.ogg",
+      "durationSec": 8.352
+    },
+    {
+      "index": 22,
+      "text": "[пауза:33]",
+      "file": "c022.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 23,
+      "text": "Вернитесь к дыханию.",
+      "file": "c023.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 24,
+      "text": "Устойчивый. Достаточно.",
+      "file": "c024.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 25,
+      "text": "[пауза:28]",
+      "file": "c025.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 26,
+      "text": "Сделайте еще один легкий вдох.",
+      "file": "c026.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 27,
+      "text": "Пошевелите пальцами.",
+      "file": "c027.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 28,
+      "text": "Когда будете готовы, откройте глаза.",
+      "file": "c028.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 29,
+      "text": "Носите немного этого с собой.",
+      "file": "c029.ogg",
+      "durationSec": 5.16
+    }
+  ]
+}

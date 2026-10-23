@@ -1,0 +1,148 @@
+{
+  "id": "sleep-gate-5",
+  "voiceId": "ru-svetlana",
+  "edgeVoice": "ru-RU-SvetlanaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 115,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Эта практика – на грани сна.",
+      "file": "c000.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 1,
+      "text": "Приглушите свет. Лечь.",
+      "file": "c001.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 2,
+      "text": "В данный момент не осталось ничего, что можно было бы закончить.",
+      "file": "c002.ogg",
+      "durationSec": 8.28
+    },
+    {
+      "index": 3,
+      "text": "[пауза:24]",
+      "file": "c003.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 4,
+      "text": "Мягко вдохните.",
+      "file": "c004.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 5,
+      "text": "Выдыхайте дольше.",
+      "file": "c005.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 6,
+      "text": "[пауза:24]",
+      "file": "c006.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 7,
+      "text": "Освободите лоб.",
+      "file": "c007.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 8,
+      "text": "Отпустите глаза.",
+      "file": "c008.ogg",
+      "durationSec": 3.888
+    },
+    {
+      "index": 9,
+      "text": "Отпустите челюсть.",
+      "file": "c009.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 10,
+      "text": "[пауза:29]",
+      "file": "c010.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 11,
+      "text": "Тяжелые руки. Тяжелые ноги.",
+      "file": "c011.ogg",
+      "durationSec": 7.368
+    },
+    {
+      "index": 12,
+      "text": "[пауза:29]",
+      "file": "c012.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 13,
+      "text": "Если мысли посещают, пусть они проносятся мимо, как ночные машины.",
+      "file": "c013.ogg",
+      "durationSec": 9.12
+    },
+    {
+      "index": 14,
+      "text": "Вы остаетесь с дыханием.",
+      "file": "c014.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 15,
+      "text": "[пауза: 45]",
+      "file": "c015.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 16,
+      "text": "Тело тонет.",
+      "file": "c016.ogg",
+      "durationSec": 3.504
+    },
+    {
+      "index": 17,
+      "text": "Дышите спокойно.",
+      "file": "c017.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 18,
+      "text": "[пауза: 45]",
+      "file": "c018.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 19,
+      "text": "Если придет сон, позвольте ему.",
+      "file": "c019.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 20,
+      "text": "Если нет, все равно отдохните.",
+      "file": "c020.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 21,
+      "text": "[пауза:35]",
+      "file": "c021.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 22,
+      "text": "Спокойной ночи дню.",
+      "file": "c022.ogg",
+      "durationSec": 4.152
+    }
+  ]
+}

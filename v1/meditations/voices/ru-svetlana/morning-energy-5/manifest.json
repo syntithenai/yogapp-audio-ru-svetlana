@@ -1,0 +1,412 @@
+{
+  "id": "morning-energy-5",
+  "voiceId": "ru-svetlana",
+  "edgeVoice": "ru-RU-SvetlanaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 370,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Доброе утро.",
+      "file": "c000.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 1,
+      "text": "Добро пожаловать на короткую практику, чтобы встретить день.",
+      "file": "c001.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 2,
+      "text": "Сядьте прямо или встаньте, если так удобнее.",
+      "file": "c002.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 3,
+      "text": "Позвольте своим глазам смягчиться или закройте их.",
+      "file": "c003.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 4,
+      "text": "Почувствуйте свои ноги на полу.",
+      "file": "c004.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 5,
+      "text": "Сделайте медленный вдох через нос.",
+      "file": "c005.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 6,
+      "text": "И более полный выдох через рот.",
+      "file": "c006.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 7,
+      "text": "Снова. Мягкий вдох.",
+      "file": "c007.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 8,
+      "text": "Полный выдох.",
+      "file": "c008.ogg",
+      "durationSec": 3.456
+    },
+    {
+      "index": 9,
+      "text": "Еще один. Наполните сундук.",
+      "file": "c009.ogg",
+      "durationSec": 7.632
+    },
+    {
+      "index": 10,
+      "text": "Пустой полностью.",
+      "file": "c010.ogg",
+      "durationSec": 3.984
+    },
+    {
+      "index": 11,
+      "text": "[пауза:4]",
+      "file": "c011.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 12,
+      "text": "Смотрите вперед, в день, не цепляясь за него.",
+      "file": "c012.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 13,
+      "text": "Вам пока не нужна вся карта.",
+      "file": "c013.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 14,
+      "text": "Просто следующий честный шаг.",
+      "file": "c014.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 15,
+      "text": "[пауза:5]",
+      "file": "c015.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 16,
+      "text": "Вдох на четыре.",
+      "file": "c016.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 17,
+      "text": "Два. Три. Четыре.",
+      "file": "c017.ogg",
+      "durationSec": 7.752
+    },
+    {
+      "index": 18,
+      "text": "Выдохните на четыре.",
+      "file": "c018.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 19,
+      "text": "Два. Три. Четыре.",
+      "file": "c019.ogg",
+      "durationSec": 7.752
+    },
+    {
+      "index": 20,
+      "text": "Опять же, в своем темпе.",
+      "file": "c020.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 21,
+      "text": "[пауза:6]",
+      "file": "c021.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 22,
+      "text": "Почувствуйте тепло в руках.",
+      "file": "c022.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 23,
+      "text": "Почувствуйте готовность в ногах.",
+      "file": "c023.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 24,
+      "text": "[пауза:4]",
+      "file": "c024.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 25,
+      "text": "Поверните плечи вверх, назад и вниз.",
+      "file": "c025.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 26,
+      "text": "Разжать челюсть.",
+      "file": "c026.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 27,
+      "text": "Смягчите живот.",
+      "file": "c027.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 28,
+      "text": "Обратите внимание на остатки сна в организме.",
+      "file": "c028.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 29,
+      "text": "Не нужно его отталкивать.",
+      "file": "c029.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 30,
+      "text": "Дышите в стороны ребер.",
+      "file": "c030.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 31,
+      "text": "И пусть они сужаются на выдохе.",
+      "file": "c031.ogg",
+      "durationSec": 5.136
+    },
+    {
+      "index": 32,
+      "text": "[пауза:5]",
+      "file": "c032.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 33,
+      "text": "Теперь придайте дыханию немного яркости.",
+      "file": "c033.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 34,
+      "text": "Вдохните, как будто вы просыпаетесь изнутри.",
+      "file": "c034.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 35,
+      "text": "Выдохните что-нибудь тяжелое, что осталось вчера.",
+      "file": "c035.ogg",
+      "durationSec": 7.368
+    },
+    {
+      "index": 36,
+      "text": "Вдохните возможность.",
+      "file": "c036.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 37,
+      "text": "Выдохните усилие, которое пока не нужно.",
+      "file": "c037.ogg",
+      "durationSec": 6.576
+    },
+    {
+      "index": 38,
+      "text": "[пауза:4]",
+      "file": "c038.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 39,
+      "text": "Положите руку на сердце или положите обе руки на колени.",
+      "file": "c039.ogg",
+      "durationSec": 7.512
+    },
+    {
+      "index": 40,
+      "text": "Молча или просто слушая, попробуйте произнести эти фразы.",
+      "file": "c040.ogg",
+      "durationSec": 8.328
+    },
+    {
+      "index": 41,
+      "text": "Я здесь.",
+      "file": "c041.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 42,
+      "text": "Я начинаю снова.",
+      "file": "c042.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 43,
+      "text": "Мне хватит на это утро.",
+      "file": "c043.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 44,
+      "text": "[пауза:4]",
+      "file": "c044.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 45,
+      "text": "Я двигаюсь уверенно.",
+      "file": "c045.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 46,
+      "text": "Я встречаю то, что приходит с ясным умом.",
+      "file": "c046.ogg",
+      "durationSec": 7.176
+    },
+    {
+      "index": 47,
+      "text": "Мне разрешено занять место сегодня.",
+      "file": "c047.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 48,
+      "text": "[пауза:5]",
+      "file": "c048.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 49,
+      "text": "Я выбираю одно четкое намерение на сегодня.",
+      "file": "c049.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 50,
+      "text": "Это может быть просто.",
+      "file": "c050.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 51,
+      "text": "Доброта. Фокус. Терпение. Энергия.",
+      "file": "c051.ogg",
+      "durationSec": 12.6
+    },
+    {
+      "index": 52,
+      "text": "Задержите это слово на вдохе.",
+      "file": "c052.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 53,
+      "text": "[пауза:6]",
+      "file": "c053.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 54,
+      "text": "Представьте, как вы проводите утро с таким качеством.",
+      "file": "c054.ogg",
+      "durationSec": 7.248
+    },
+    {
+      "index": 55,
+      "text": "[пауза:5]",
+      "file": "c055.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 56,
+      "text": "[пауза:5]",
+      "file": "c056.ogg",
+      "durationSec": 4.104
+    },
+    {
+      "index": 57,
+      "text": "Растяните пальцы широко, затем мягко.",
+      "file": "c057.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 58,
+      "text": "Немного приподнимите уголки рта, если это кажется правдой.",
+      "file": "c058.ogg",
+      "durationSec": 7.896
+    },
+    {
+      "index": 59,
+      "text": "[пауза:3]",
+      "file": "c059.ogg",
+      "durationSec": 3.6
+    },
+    {
+      "index": 60,
+      "text": "Почувствуйте, как позвоночник удлиняется на следующем вдохе.",
+      "file": "c060.ogg",
+      "durationSec": 8.184
+    },
+    {
+      "index": 61,
+      "text": "Почувствуйте, как плечи успокаиваются на выдохе.",
+      "file": "c061.ogg",
+      "durationSec": 7.104
+    },
+    {
+      "index": 62,
+      "text": "Еще один яркий вдох.",
+      "file": "c062.ogg",
+      "durationSec": 4.776
+    },
+    {
+      "index": 63,
+      "text": "И долгий, легкий выдох.",
+      "file": "c063.ogg",
+      "durationSec": 4.92
+    },
+    {
+      "index": 64,
+      "text": "Пошевелите пальцами.",
+      "file": "c064.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 65,
+      "text": "Когда будете готовы, откройте глаза.",
+      "file": "c065.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 66,
+      "text": "Внесите эту тихую энергию в свой день.",
+      "file": "c066.ogg",
+      "durationSec": 5.88
+    }
+  ]
+}

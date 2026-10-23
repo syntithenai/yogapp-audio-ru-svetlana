@@ -1,0 +1,238 @@
+{
+  "id": "forgiveness-soft-10",
+  "voiceId": "ru-svetlana",
+  "edgeVoice": "ru-RU-SvetlanaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 217,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Добро пожаловать.",
+      "file": "c000.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 1,
+      "text": "Найдите время, чтобы приехать.",
+      "file": "c001.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 2,
+      "text": "Сядьте или лягте с поддержкой.",
+      "file": "c002.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 3,
+      "text": "Закройте глаза, если это безопасно.",
+      "file": "c003.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 4,
+      "text": "Почувствуйте контакт с землей.",
+      "file": "c004.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 5,
+      "text": "Медленный вдох.",
+      "file": "c005.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 6,
+      "text": "Более длинный выдох.",
+      "file": "c006.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 7,
+      "text": "[пауза:27]",
+      "file": "c007.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 8,
+      "text": "Снова.",
+      "file": "c008.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 9,
+      "text": "[пауза:27]",
+      "file": "c009.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 10,
+      "text": "Позвольте плечам опуститься.",
+      "file": "c010.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 11,
+      "text": "Пусть живот смягчится.",
+      "file": "c011.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 12,
+      "text": "[пауза:34]",
+      "file": "c012.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 13,
+      "text": "Прощение здесь означает выпуск собственного сжатого кулака.",
+      "file": "c013.ogg",
+      "durationSec": 7.656
+    },
+    {
+      "index": 14,
+      "text": "Не притворяться, что причинен вред, не имело значения.",
+      "file": "c014.ogg",
+      "durationSec": 8.136
+    },
+    {
+      "index": 15,
+      "text": "[пауза:34]",
+      "file": "c015.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 16,
+      "text": "Начните с чего-то маленького, что вы против себя.",
+      "file": "c016.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 17,
+      "text": "Ошибка. Недостаток.",
+      "file": "c017.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 18,
+      "text": "[пауза:34]",
+      "file": "c018.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 19,
+      "text": "Молча: Я прощаю себя за то, что я человек.",
+      "file": "c019.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 20,
+      "text": "Я отпускаю то, что мне больше не нужно нести.",
+      "file": "c020.ogg",
+      "durationSec": 6.84
+    },
+    {
+      "index": 21,
+      "text": "[пауза:54]",
+      "file": "c021.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 22,
+      "text": "Если это кажется правильным, вспомните легкую трудность с другим человеком.",
+      "file": "c022.ogg",
+      "durationSec": 9.048
+    },
+    {
+      "index": 23,
+      "text": "Не самая тяжелая история. Более легкий.",
+      "file": "c023.ogg",
+      "durationSec": 9.024
+    },
+    {
+      "index": 24,
+      "text": "[пауза:34]",
+      "file": "c024.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 25,
+      "text": "Я отпускаю то, что могу.",
+      "file": "c025.ogg",
+      "durationSec": 5.112
+    },
+    {
+      "index": 26,
+      "text": "Я сохраняю свои границы. Я сбросил лишний вес.",
+      "file": "c026.ogg",
+      "durationSec": 9.432
+    },
+    {
+      "index": 27,
+      "text": "[пауза:54]",
+      "file": "c027.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 28,
+      "text": "Вдохните в те места, которые сжались.",
+      "file": "c028.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 29,
+      "text": "[пауза:68]",
+      "file": "c029.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 30,
+      "text": "Отдохните в пространстве, которое открывается, когда кулак смягчается.",
+      "file": "c030.ogg",
+      "durationSec": 9.624
+    },
+    {
+      "index": 31,
+      "text": "[пауза:81]",
+      "file": "c031.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 32,
+      "text": "[пауза: 41]",
+      "file": "c032.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 33,
+      "text": "Начните углублять дыхание.",
+      "file": "c033.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 34,
+      "text": "Почувствуйте комнату снова.",
+      "file": "c034.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 35,
+      "text": "Шевелите пальцами рук и ног.",
+      "file": "c035.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 36,
+      "text": "Когда будете готовы, откройте глаза.",
+      "file": "c036.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 37,
+      "text": "Медленно двигайтесь к тому, что будет дальше.",
+      "file": "c037.ogg",
+      "durationSec": 6.528
+    }
+  ]
+}
